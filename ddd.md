@@ -3,7 +3,7 @@
 HOLAAAAA HOLAAAA![as dasd]
 
 
-![]({{site.baseurl}}/images/filter.JPG)
+![](images/filter.JPG)
 
 
 FFF
